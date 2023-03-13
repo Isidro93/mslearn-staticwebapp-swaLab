@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "engines": {
     "node": ">=12.14.0"
-  }, 
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve --proxy-config proxy.conf.json --open",
@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^12.0.4",
-    "@angular/cli": "^12.0.4",
+    "@angular/cli": "^15.2.2",
     "@angular/compiler-cli": "^12.0.4",
     "@angular/language-service": "^12.0.4",
     "@types/jasmine": "~3.6.0",
